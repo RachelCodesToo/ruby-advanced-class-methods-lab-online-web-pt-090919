@@ -46,7 +46,8 @@ class Song
     song_name = array[1].gsub(".mp3", "")
     song = new 
     song.name = song_name
-    song.artist
+    song.artist_name = artist_name
+    
   
   
 end
