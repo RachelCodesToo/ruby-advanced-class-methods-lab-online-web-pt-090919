@@ -44,6 +44,7 @@ class Song
     array = filename.split(" - ")
     artist_name = array[0]
     song_name = array[1].gsub(".mp3", "")
+    song = new 
     
   
   
